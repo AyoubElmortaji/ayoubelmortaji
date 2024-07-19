@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Ayoub El Mortaji! 👋
 
-<!--
-**AyoubElmortaji/ayoubelmortaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a student of electrical engineering at ENSAM Casablanca and I'm passionate about web development and machine learning. Here you'll find some of the projects I've been working on and learning from.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Jupyter
+
+## 📈 Stats
+- 📊 Currently learning data science and machine learning
+- 🌱 Always looking to collaborate on open source projects
+
+## 🚀 Projects
+- [Project 1](link): A brief description of what this project does.
+- [Project 2](link): Another project and what it’s about.
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/ayoub-el-mortaji/)
+- [Twitter](https://twitter.com/your_twitter_handle)
+- [Email](mailto:your_email@example.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubelmortaji&show_icons=true&theme=radical)
+
