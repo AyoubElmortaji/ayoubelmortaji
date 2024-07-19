@@ -16,16 +16,6 @@ I'm a student at ENSAM Casablanca, Morocco, and I'm passionate about cybersecuri
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubelmortaji&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubelmortaji&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayoubelmortaji&theme=radical" alt="Profile Details" />
-  <br>
-
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayoubelmortaji&theme=radical" alt="Repos per Language" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayoubelmortaji&theme=radical" alt="Productive Time" />
-  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=AyoubElmortaji&row=2&column=3" alt="GitHub Profile Trophy" />
 </div>
 
