@@ -11,13 +11,20 @@ I'm a student at ENSAM Casablanca, Morocco, and I'm passionate about cybersecuri
 
 
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayoubelmortaji&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubelmortaji&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubelmortaji&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayoubelmortaji&theme=radical" alt="Profile Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayoubelmortaji&theme=radical" alt="Most Commit Language" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayoubelmortaji&theme=radical" alt="Repos per Language" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayoubelmortaji&theme=radical" alt="Productive Time" />
 </div>
 
 
